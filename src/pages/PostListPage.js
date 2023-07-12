@@ -1,5 +1,11 @@
+import Button from '../components/common/Button';
+
 const PostListPage = () => {
-  return <div>포스트 리스트</div>;
+  return (
+    <div>
+      <Button>BTN</Button>
+    </div>
+  );
 };
 
 export default PostListPage;
