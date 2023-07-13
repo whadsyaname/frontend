@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import palette from '../../lib/styles/palette';
 import { Link } from 'react-router-dom';
 
+/* 화면 전체를 채움 */
 const AuthTemplateBlock = styled.div`
   position: absolute;
   left: 0;
